@@ -101,4 +101,4 @@ Root = 8
 ****
 
 
-[Patika_Linkim](https://app.patika.dev/verkillius)
+
