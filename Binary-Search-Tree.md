@@ -87,19 +87,19 @@ Root = 8
     0           
 
 
-             8
-           /  \  
-          5     9
+               8
+             /  \  
+            5     9
+           /  \   
+          3     7       
          /  \   
-        3     7       
-       /  \   
-      2    4
-     /       \
-    1         6
-   /               
-  0
+        2    4
+       /       \
+      1         6
+     /               
+    0
 
-****
+[Patika_Linkim](https://app.patika.dev/verkillius)
 
 
 
