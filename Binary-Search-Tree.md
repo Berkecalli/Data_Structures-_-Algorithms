@@ -84,6 +84,8 @@ Root = 7
      2    4
     /       \
    1         6
+              
+
 
              8
            /  \  
@@ -94,6 +96,13 @@ Root = 7
      2    4
     /       \
    1         6
-  /
- 0
+  /               
+                 
+
+
+
+
 ****
+
+
+  [Patika_Linkim](https://app.patika.dev/verkillius)
